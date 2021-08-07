@@ -32,6 +32,7 @@ public class EmployeeController {
 	@GetMapping("/get")
 	  public List<Employee> getAllEmployees(){
 	    return empService.getAllEmployees();
+	    System.out.println("hi");
 	  }
 	
 	@GetMapping("/{id}")
