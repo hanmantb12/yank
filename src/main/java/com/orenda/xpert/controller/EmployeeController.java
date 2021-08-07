@@ -32,7 +32,7 @@ public class EmployeeController {
 	@GetMapping("/get")
 	  public List<Employee> getAllEmployees(){
 	    
-		System.out.println("hi");
+		System.out.println("hid");
 		return empService.getAllEmployees();
 		
 	    
