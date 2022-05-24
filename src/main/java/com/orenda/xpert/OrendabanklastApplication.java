@@ -11,6 +11,8 @@ public class OrendabanklastApplication {
 		//
 		System.out.println("hello");
 		SpringApplication.run(OrendabanklastApplication.class, args);
+		
+		System.out.println("heeeeeee");
 	}
 
 }
