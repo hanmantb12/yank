@@ -9,7 +9,7 @@ class OrendabanklastApplicationTests {
 	
 	
 
-	sop
+	
 	@Test
 	void contextLoads() {
 	}
