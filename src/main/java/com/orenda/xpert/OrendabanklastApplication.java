@@ -8,7 +8,7 @@ public class OrendabanklastApplication {
 
 	public static void main(String[] args) {
 		
-	kkkkkkkkkkk
+
 		System.out.println("hello");
 		SpringApplication.run(OrendabanklastApplication.class, args);
 
