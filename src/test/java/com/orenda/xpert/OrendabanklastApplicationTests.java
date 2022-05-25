@@ -6,14 +6,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class OrendabanklastApplicationTests {
 	
-	
-	
 
-
-
-	
 	@Test
 	void contextLoads() {
+		
+		System.out.println("hhhhhhhhhhh");
 	}
 
 }
